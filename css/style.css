@@ -61,4 +61,6 @@ img {
   border-style: solid;
 }
 
-
+body {
+  background-image: url("white-wood.jpg");
+}
